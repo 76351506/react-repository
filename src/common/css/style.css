@@ -1,0 +1,27 @@
+body {
+    font-size: 0.12rem;
+
+}
+
+.wraper {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    display: -webkit-flex;
+    flex-direction: column;
+    background-color: #dec
+}
+
+.header {
+    background-color: #099fde;
+    height: 44px;
+    color: #fff;
+    text-align: center;
+}
+
+
+.content {
+    -webkit-flex: 1;
+    position: relative;
+}
